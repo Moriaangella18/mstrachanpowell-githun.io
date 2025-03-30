@@ -44,11 +44,11 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>MidTerm</h3>
-            <p>Description of project 1.</p>
+            <p>Description of midterm.</p>
         </div>
         <div class="project">
             <h3>Final Project</h3>
-            <p>Description of project 2.</p>
+            <p>Description of final project.</p>
         </div>
         <div class="project">
             <h3>Project 3</h3>
