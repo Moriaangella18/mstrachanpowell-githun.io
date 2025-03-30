@@ -59,7 +59,7 @@
     <section>
         <h2>Contact</h2>
         <p>Email: student@example.com</p>
-        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+        <p>GitHub: <a href="https://github.com/mstrachanpowell">github.com/mstrachanpowell</a></p>
     </section>
 </body>
 </html>
