@@ -6,35 +6,38 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: #1e1e2e;
+            color: #ffffff;
             text-align: center;
             padding: 20px;
         }
         .container {
-            max-width: 800px;
+            max-width: 900px;
             margin: auto;
-            background: white;
+            background: #2d2d44;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
         }
         h2 {
-            color: #0073e6;
+            color: #ffcc00;
+            font-weight: bold;
         }
         .project {
-            background: #eef;
+            background: #44475a;
             padding: 15px;
             margin: 10px 0;
             border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         }
         a {
-            color: #0073e6;
+            color: #ffcc00;
             text-decoration: none;
         }
         img {
-            max-width: 100px;
+            max-width: 120px;
             border-radius: 50%;
+            border: 3px solid #ffcc00;
         }
     </style>
 </head>
