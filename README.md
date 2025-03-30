@@ -43,11 +43,11 @@
     <section>
         <h2>Projects</h2>
         <div class="project">
-            <h3>Project 1</h3>
+            <h3>MidTerm</h3>
             <p>Description of project 1.</p>
         </div>
         <div class="project">
-            <h3>Project 2</h3>
+            <h3>Final Project</h3>
             <p>Description of project 2.</p>
         </div>
         <div class="project">
@@ -58,7 +58,7 @@
     
     <section>
         <h2>Contact</h2>
-        <p>Email: student@example.com</p>
+        <p>Email: mstrachanpowell@students.cw.edu</p>
         <p>GitHub: <a href="https://github.com/mstrachanpowell">github.com/mstrachanpowell</a></p>
     </section>
 </body>
