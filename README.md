@@ -2,29 +2,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Portfolio</title>
+    <title>My Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
             text-align: center;
-        }
-        header {
-            background: #007bff;
-            color: white;
             padding: 20px;
         }
-        section {
-            margin: 20px;
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
             padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #0073e6;
         }
         .project {
-            border: 1px solid #ddd;
-            padding: 10px;
-            margin: 10px;
-            display: inline-block;
-            width: 30%;
+            background: #eef;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        img {
+            max-width: 100px;
+            border-radius: 50%;
         }
     </style>
 </head>
